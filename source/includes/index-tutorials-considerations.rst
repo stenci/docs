@@ -6,5 +6,5 @@ building the index in the background, as described in
 .. include:: /includes/note-build-indexes-on-replica-sets.rst
 
 Some drivers may specify indexes, using ``NumberLong(1)`` rather than
-``1`` as the specification. This does not have any affect on the
+``1`` as the specification. This does not have any effect on the
 resulting index.
